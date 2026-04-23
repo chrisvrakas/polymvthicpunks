@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <!-- Favicon -->
+    <link rel="icon" type="image/x-icon" href="../../assets/images/favicon.ico">
+    <link rel="icon" type="image/png" sizes="32x32" href="../../assets/images/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="../../assets/images/favicon-16x16.png">
+    <link rel="apple-touch-icon" sizes="180x180" href="../../assets/images/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="192x192" href="../../assets/images/android-chrome-192x192.png">
+    <link rel="icon" type="image/png" sizes="512x512" href="../../assets/images/android-chrome-512x512.png">
+
+    <!-- SEO -->
+    <meta name="description" content="Resources curated by Chris Vrakas — redirecting to chrisvrakas.com/resources.html">
+    <meta name="author" content="Chris Vrakas">
+    <meta http-equiv="refresh" content="4;url=https://chrisvrakas.com/resources.html">
+
+    <title>RESOURCES - POLYMVTHIC PUNKS</title>
+    <link rel="stylesheet" href="../../assets/css/style.css">
+
+    <style>
+        .redirect-counter {
+            color: var(--primary-green);
+            font-size: 2rem;
+            font-weight: bold;
+        }
+        .redirect-url {
+            color: var(--primary-blue);
+            word-break: break-all;
+        }
+        .blink {
+            animation: blink 1s infinite;
+        }
+        @keyframes blink {
+            0%, 50% { opacity: 1; }
+            51%, 100% { opacity: 0; }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <header class="header">
+            <nav class="nav">
+                <a href="../../index.html" class="logo">POLYMVTHIC_PUNKS</a>
+                <ul class="nav-links">
+                   <li><a href="../philosophy/index.html">PHILOSOPHY</a></li>
+                   <li><a href="../services/index.html">SERVICES</a></li>
+                   <li><a href="../resources/index.html">RESOURCES</a></li>
+                   <li><a href="../connect/index.html">CONNECT</a></li>
+                </ul>
+            </nav>
+        </header>
+
+        <main class="main">
+            <section class="hero">
+                <h1 class="text-logo">RESOURCES</h1>
+            </section>
+
+            <div class="terminal-window">
+                <div class="terminal-header">
+                    <div class="terminal-dots">
+                        <div class="dot"></div>
+                        <div class="dot"></div>
+                        <div class="dot"></div>
+                    </div>
+                    <div class="terminal-title">redirect.sh</div>
+                </div>
+                <div class="terminal-content">
+                    <div class="command-line">./redirect --follow</div>
+                    <div class="output" style="line-height: 2;">
+                        <span class="highlight">STATUS:</span> UPGRADING_RESOURCE_LOCATION<br>
+                        <span class="highlight">REASON:</span> THE FULL STACK LIVES ELSEWHERE — 600+ HAND-PICKED RESOURCES AWAIT<br>
+                        <span class="highlight">DESTINATION:</span> <span class="redirect-url">https://chrisvrakas.com/resources.html</span><br><br>
+
+                        <span class="highlight">REDIRECTING_IN:</span> <span class="redirect-counter" id="countdown">4</span> SECONDS<br><br>
+
+                        <span style="color: var(--text-secondary);">→ Or proceed manually:</span>
+                        <a href="https://chrisvrakas.com/resources.html" style="color: var(--primary-green); text-decoration: underline;">chrisvrakas.com/resources.html</a>
+                        <span class="blink">█</span>
+                    </div>
+                </div>
+            </div>
+        </main>
+    </div>
+
+    <script>
+        let count = 4;
+        const el = document.getElementById('countdown');
+        const interval = setInterval(() => {
+            count--;
+            el.textContent = count;
+            if (count <= 0) {
+                clearInterval(interval);
+                window.location.href = 'https://chrisvrakas.com/resources.html';
+            }
+        }, 1000);
+    </script>
+</body>
+</html>
