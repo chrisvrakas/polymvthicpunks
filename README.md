@@ -2,7 +2,7 @@
 
 ![polymathic-punks-logo](assets/images/polymathic-punks-logo.png)
 
-Personal branding and consultancy website for Chris Vrakas — built on lateral thinking, first principles, and the hacker ethos. Terminal-inspired cyberpunk UI with zero dependencies and zero bloat.
+Personal branding and consultancy website for Chris Vrakas — built on lateral thinking, first principles, and a classic hacker-minded ethos. Terminal-inspired cyberpunk UI with zero dependencies and zero bloat.
 
 **[→ Live Site: polymvthicpunks.com](https://polymvthicpunks.com)**
 
