@@ -123,7 +123,7 @@ This project is open source and available under the [MIT License](LICENSE) — f
 - Personal: [chrisvrakas.com](https://chrisvrakas.com)
 - GitHub: [@chrisvrakas](https://github.com/chrisvrakas)
 - X: [@chris_vrakas](https://x.com/chris_vrakas)
-- Email: [connect@chrisvrakas.com](mailto:connect@chrisvrakas.com)
+- Email: [freedom@chrisvrakas.com](mailto:freedom@chrisvrakas.com)
 
 ---
 
