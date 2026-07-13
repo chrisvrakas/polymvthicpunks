@@ -1,6 +1,6 @@
 # POLYMVTHIC PUNKS
 
-> **Better to be the only than the best.**
+![polymathic-punks-logo](assets/images/polymathic-punks-logo.png)
 
 Personal branding and consultancy website for Chris Vrakas — built on lateral thinking, first principles, and the hacker ethos. Terminal-inspired cyberpunk UI with zero dependencies and zero bloat.
 
