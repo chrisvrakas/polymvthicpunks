@@ -14,10 +14,8 @@ Personal branding and consultancy website for Chris Vrakas — built on lateral 
 - Branding & Development
 - Privacy & Operational Security
 - Networking & Cybersecurity
-- Marketing
-- Event Production
-
-I work with purpose-driven clients who love what they do and think from first principles.
+- Event Promotion & Production
+- Full Stack Marketing
 
 ---
 
@@ -76,9 +74,9 @@ polymvthicpunks.com/
 
 ## 🔐 PGP
 
-**Fingerprint:** `6286 D499 A4F1 68D0 ABF3  98CE 529D 9082 563E DF0B`
+**Fingerprint:** `0AD1 B833 73CE A598 682A 8ADC FCB5 ADD3 8E5E 4895`
 
-For encrypted communications, use my [PGP public key](https://polymvthicpunks.com/pages/pgp/) or download directly from [chrisvrakas.com](https://chrisvrakas.com/assets/pgp/chris-vrakas-public-key.asc).
+For encrypted communications - [chrisvrakas.com](https://chrisvrakas.com/assets/pgp/chris-vrakas-public-key.asc).
 
 ---
 
