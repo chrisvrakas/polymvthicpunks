@@ -81,9 +81,7 @@ I am on a **MISSION** to help purpose-driven brands become gold-standard "niches
 
 ## 📬 CONNECT
 
-Email: [freedom@chrisvrakas.com](mailto:freedom@chrisvrakas.com)
-
-*note: this email is hosted at [Proton Mail](https://proton.me/mail)*
+Email: [freedom@chrisvrakas.com](mailto:freedom@chrisvrakas.com) *(hosted at [Proton Mail](https://proton.me/mail))*
 
 For encrypted communications, consider using my **PGP KEY** - [chrisvrakas.com](https://chrisvrakas.com/assets/pgp/chris-vrakas-public-key.asc).
 
