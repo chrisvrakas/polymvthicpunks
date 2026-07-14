@@ -1,43 +1,37 @@
 ![polymathic-punks-logo](assets/images/polymathic-punks-logo.png)
 
-Personal branding and consultancy website for [Chris Vrakas](https://chrisvrakas.com) — built on lateral thinking, first principles, and a classic hacker-minded ethos. Terminal-inspired cyberpunk UI with zero dependencies and zero bloat.
+![oldschool_ui_mockup](assets/images/og_laptop_mockup.jpg)
 
-**[→ Live Site: polymvthicpunks.com](https://polymvthicpunks.com)**
+**[POLYMVTHICPUNKS](https://polymvthicpunks.com)** is a Milwaukee-based agency owned & operated by **[CHRIS VRAKAS](https://chrisvrakas.com)** — built from first principles with a purpose-driven, polymathic, and hacker-minded ethos 
+
+**[VIEW LIVE WEBSITE →](https://polymvthicpunks.com)**
 
 ---
 
-## 🎯 What I Do
+## 🎯 AGENCY SERVICES
 
 - Web & Graphic Design
-- Branding & Development
-- Privacy & Operational Security
-- Networking & Cybersecurity
-- Event Promotion & Production
-- Full Stack Marketing
+- Marketing & Brand Development
+- Privacy/Opsec & Cybersecurity
+- Cryptocurrency & Related Technologies
+- AI Implementation & Automation
+- Nightlife, Hospitality, & Music 
+- Full-Stack Event Production & Promotion 
+- Consultations on all of the ⬆️
 
 ---
 
-## ✨ Features
+## ✨ WEBSITE HIGHLIGHTS
 
-- **Terminal UI** — Cyberpunk aesthetic with Cygnito Mono Pro typeface
-- **Vanilla Stack** — No frameworks, no dependencies, pure HTML/CSS/JS
-- **Fully Responsive** — Desktop, tablet, and mobile
-- **PGP Encrypted Communications** — Because encryption should be the default
-- **Zero Tracking** — No analytics, no cookies, no surveillance capitalism
-- **Static Hosting** — GitHub Pages, push to deploy
-
----
-
-## 🛠️ Tech Stack
-
-- **HTML5 / CSS3 / Vanilla JavaScript** — No frameworks, no build step
-- **Cygnito Mono Pro** — Custom monospace typeface (self-hosted)
-- **GitHub Pages** — Static hosting
-- **Cloudflare** — CDN, DNS, and SSL
+- **DESIGN** — minimal grid-based UI / terminal aesthetic / monospace typography & typescale / pixel-perfect design 
+- **STACK** — no frameworks, no dependencies, just pure HTML5, CSS3, and Vanilla Java
+- **RESPONSIVE** — all screensizes and breakpoints
+- **PRIVACY** — zero tracking or analytics, no cookies, no surveillance capitalism bs [view privacy policy here](https://polymvthicpunks.com/pages/privacy/index.html)
+- **HOSTING** — Registrar → Cloudflare CDN/DNS/SSL → GitHub Pages & ProtonMail
 
 ---
 
-## 📂 Project Structure
+## 📂 TREE
 
 ```
 polymvthicpunks.com/
@@ -70,36 +64,36 @@ polymvthicpunks.com/
 
 ---
 
-## 🔐 PGP
+## 💡 PHILOSOPHY 
+
+> WHY FIT IN WHEN YOU WERE BORN TO STAND OUT? -Dr. Suess 
+
+I believe that the future will belong to those non-obvious thinkers who use their wide-ranging powers of interdisciplinary exploration to see connections between multiple, seemingly unrelated domains. 
+
+![og-spraycan](assets/images/og_spraycan.jpg)
+
+You're a cultural anomaly and I am your asymmetrical advantage. 
+
+I am on a **MISSION** to help purpose-driven brands become gold-standard "niches of one" that stand the test of time.
+                    
+
+---
+
+## 📬 CONNECT
+
+Email: [freedom@chrisvrakas.com](mailto:freedom@chrisvrakas.com)
+
+*note: this email is hosted at [Proton Mail](https://proton.me/mail)*
+
+For encrypted communications, consider using my **PGP KEY** - [chrisvrakas.com](https://chrisvrakas.com/assets/pgp/chris-vrakas-public-key.asc).
 
 **Fingerprint:** `0AD1 B833 73CE A598 682A 8ADC FCB5 ADD3 8E5E 4895`
 
-For encrypted communications - [chrisvrakas.com](https://chrisvrakas.com/assets/pgp/chris-vrakas-public-key.asc).
-
----
-
-## 🚀 Local Development
-
-```bash
-# Clone the repo
-git clone https://github.com/chrisvrakas/polymvthicpunks.com.git
-
-# Navigate to directory
-cd polymvthicpunks.com
-
-# Open in browser
-open index.html
-```
-
-No build process. No dependencies. Just HTML, CSS, and JavaScript.
-
----
-
-## 💡 Philosophy
-
-I believe in open-source thinking. Better to be the only than the best. When everyone zigs, zag.
-
-I'm a jvck of all trades, master of most. I don't specialize — I synthesize.
+- Website: [chrisvrakas.com](https://chrisvrakas.com)
+- Github: [@chrisvrakas](https://github.com/chrisvrakas)
+- X: [@chris_vrakas](https://x.com/chris_vrakas)
+- Medium: [@chrisvrakas](https://medium.com/@chrisvrakas)
+- Instagram: [@chris_vrakas](https://instagram.com/chris_vrakas)
 
 ---
 
@@ -107,26 +101,14 @@ I'm a jvck of all trades, master of most. I don't specialize — I synthesize.
 
 **When everyone copyrights, copyleft.**
 
-This project is open source and available under the [MIT License](LICENSE) — fork it, modify it, learn from it. Just give credit where it's due.
-
----
-
-## 📬 Contact
-
-**Chris Vrakas**
-
-- Website: [polymvthicpunks.com](https://polymvthicpunks.com)
-- Personal: [chrisvrakas.com](https://chrisvrakas.com)
-- GitHub: [@chrisvrakas](https://github.com/chrisvrakas)
-- X: [@chris_vrakas](https://x.com/chris_vrakas)
-- Email: [freedom@chrisvrakas.com](mailto:freedom@chrisvrakas.com)
+This project is open source and available under the [MIT License](LICENSE) 
 
 ---
 
 <div align="center">
 
-**"Better to be the only than the best."**
+*"jvck of all trades, master of many"*
 
-**[polymvthicpunks.com →](https://polymvthicpunks.com)**
+**[VISIT POLYMVTHIC PUNKS →](https://polymvthicpunks.com)**
 
 </div>
